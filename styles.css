@@ -1,0 +1,9 @@
+body {
+	background-image: url("img/face.gif");
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+h1 {
+	color: white;
+}
